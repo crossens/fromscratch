@@ -1,0 +1,23 @@
+{
+  "name": "fromscratch",
+  "version": "1.0.0",
+  "description": "My Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crossens/fromscratch.git"
+  },
+  "author": "Shelley Crossen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crossens/fromscratch/issues"
+  },
+  "homepage": "https://github.com/crossens/fromscratch#readme",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0",
+    "@hapi/joi": "^16.1.8"
+  }
+}
